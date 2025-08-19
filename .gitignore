@@ -1,0 +1,222 @@
+# # Miscellaneous
+# *.class
+# *.log
+# *.pyc
+# *.swp
+# .DS_Store
+# .atom/
+# .build/
+# .buildlog/
+# .history
+# .svn/
+# .swiftpm/
+# migrate_working_dir/
+
+# # IntelliJ related
+# *.iml
+# *.ipr
+# *.iws
+# .idea/
+
+# # The .vscode folder contains launch configuration and tasks you configure in
+# # VS Code which you may wish to be included in version control, so this line
+# # is commented out by default.
+# #.vscode/
+
+# # Flutter/Dart/Pub related
+# **/doc/api/
+# **/ios/Flutter/.last_build_id
+# .dart_tool/
+# .flutter-plugins-dependencies
+# .pub-cache/
+# .pub/
+# /build/
+# /coverage/
+
+# # Symbolication related
+# app.*.symbols
+
+# # Obfuscation related
+# app.*.map.json
+
+# # Android Studio will place build artifacts here
+# /android/app/debug
+# /android/app/profile
+# /android/app/release
+
+# .env
+
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+
+# Android Studio related
+*.hprof
+*.orig
+*.apk
+*.aab
+*.ap_
+*.dex
+*.keystore
+*.jks
+build/
+app/build/
+.gradle/
+local.properties
+.gradle
+
+# VS ..
+
+Code related
+.dart_tool/
+.packages
+.vscode/
+pubspec.lock
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+flutter_*.snapshot
+flutter_build_*.log
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.lock
+*.generated.dart
+*.g.dart
+*.mocks.dart
+
+# Android related
+**/android/**/gradle-wrapper.jar
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/key.properties
+**/android/.gradle/
+**/android/build/
+**/android/app/build/
+**/android/app/src/main/assets/
+**/android/app/src/main/res/drawable-*/
+**/android/app/src/main/res/mipmap-*/
+**/android/app/src/main/res/raw/
+**/android/app/src/main/res/values-night/
+**/android/app/src/main/res/values/
+**/android/app/src/main/AndroidManifest.xml.OLD
+
+# iOS related
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flutter-plugin
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/flutter_export_environment.zsh
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/Runner10.0.0
+**/ios/Runner.xcworkspace/
+**/ios/Runner.xcodeproj/
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Flutter.xcconfig
+
+# Web related
+**/web/favicon.png
+**/web/icons/
+**/web/index.html
+**/web/manifest.json
+
+# macOS related
+**/macos/Flutter/Flutter.xcconfig
+**/macos/Flutter/Flutter.podspec
+**/macos/Pods/
+**/macos/Runner.xcworkspace/
+**/macos/Runner.xcodeproj/
+
+# Windows related
+**/windows/flutter/generated_plugin_registrant.cc
+**/windows/flutter/generated_plugin_registrant.h
+**/windows/Runner.rc
+
+# Linux related
+**/linux/flutter/generated_plugin_registrant.cc
+**/linux/flutter/generated_plugin_registrant.h
+**/linux/my_application.cc
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.gen.dart
+*.gr.dart
+*.config.dart
+
+# Coverage
+coverage/
+lcov.info
+
+# Secrets and sensitive data
+*.p12
+*.jks
+key.properties
+local.properties
+secrets.json
+.env
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Build outputs
+build/
+dist/
+out/
+
+# Miscellaneous
+*.lock
+*.cache
+*.temp
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.swm
+*.suo
+*.user
+*.ncb
+*.aps
+*.pidb
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sublime-workspace
+*.sublime-project
+Thumbs.db
+ehthumbs.db

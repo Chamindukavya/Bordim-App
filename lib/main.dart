@@ -6,6 +6,7 @@ import 'package:my_app/screens/auth_screen.dart';
 import 'package:my_app/screens/home_screen.dart';
 import 'package:my_app/screens/add_debt_screen.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
+import 'package:my_app/screens/user_screen.dart';
 
 void main() async {
 
@@ -38,7 +39,6 @@ void main() async {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -69,6 +69,7 @@ class MyApp extends StatelessWidget {
         '/auth': (_) => const AuthScreen(),
         '/home': (_) => const HomeScreen(),
         '/add-debt': (_) => const AddDebtScreen(),
+        '/user-screen': (_) => const UserScreen(),
       },
     );
   }
